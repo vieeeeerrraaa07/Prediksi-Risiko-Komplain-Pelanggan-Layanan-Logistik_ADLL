@@ -21,7 +21,7 @@ Repositori ini terdiri dari beberapa file utama:
 - `customer_support_tickets.csv`  
   Dataset customer support ticket yang digunakan sebagai data utama penelitian.
 
-- `Survei Kepuasan Pelanggan Layanan Logistik (Jawaban)-1.pdf`  
+- `Survei Kepuasan Pelanggan Layanan Logistik (Jawaban) - Form Responses.csv`  
   Data hasil survei pelanggan yang digunakan untuk validasi eksternal.
 
 - `README.md`  
