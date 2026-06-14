@@ -198,9 +198,9 @@ Berdasarkan hasil model dan survei, beberapa rekomendasi bisnis yang dapat diber
 
 Kelompok FRI-029:
 
-- Elvira Eka Ramadhani
-- Christina Limbong
-- Syafiq Kamaaluddin
+- Elvira Eka Ramadhani (102032400024)
+- Christina Limbong (102032400063)
+- Syafiq Kamaaluddin (102032400080)
 
 ## Mata Kuliah
 
